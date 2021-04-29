@@ -1,5 +1,5 @@
 {
-  "name": "-modul9webpack-lesson",
+  "name": "modul9webpack-lesson",
   "version": "1.0.0",
   "description": "modul9webpack-lesson",
   "main": "src/index.js",
@@ -21,7 +21,7 @@
   "homepage": "https://github.com/VasylBarna/-modul9webpack-lesson#readme",
   "dependencies": {
     "bootstrap": "^4.6.0",
-    "core.js": "^0.4.2",
+    "core-js": "^3.11.0",
     "jquery": "^3.6.0",
     "popper.js": "^1.16.1",
     "regenerator-runtime": "^0.13.7"
